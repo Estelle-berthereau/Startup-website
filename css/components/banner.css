@@ -1,0 +1,12 @@
+.banner {
+		background-color: rgb(233, 224, 220, 0.8);
+		background-size: cover;  
+		background-position: center;
+		background-attachment: fixed;
+}
+
+.slogan {
+  font-family: "Dancing Script", cursive;
+  font-weight: 30px;
+  font-style: normal;
+}
